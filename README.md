@@ -32,3 +32,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality:
 ![Imafe of the Heroku deployed app](./Screenshot%202022-08-25%20125652.png)
+ 
+ ## Links
+ Git Hub Repo: https://github.com/Mavsic/Note_Taker
+ Heroku app:   https://polar-shelf-15707.herokuapp.com/
